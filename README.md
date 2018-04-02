@@ -1,4 +1,6 @@
-<img align="center" src="https://on.ahmda.ws/qZ97/c" alt="Shades-of-Purple Theme for Konsole" />
+<p align="center">
+	<img with="800" height="426" src="https://user-images.githubusercontent.com/1818941/38187556-918a76ae-3671-11e8-882c-2139c249a404.gif" alt="Shades-of-Purple Theme for Konsole" />
+</p>
 
 <h1 align="center">Shades of Purple Theme for Konsole</h1>
 
