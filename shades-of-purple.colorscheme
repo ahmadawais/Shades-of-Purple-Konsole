@@ -5,7 +5,7 @@ Color=30,29,64
 Color=45,43,85
 
 [BackgroundIntense]
-Color=0,102,255
+Color=93,61,225
 
 [Color0]
 Color=0,0,0
@@ -44,7 +44,7 @@ Color=250,208,0
 Color=255,255,0
 
 [Color4]
-Color=0,102,255
+Color=93,61,225
 
 [Color4Faint]
 Color=105,67,255
