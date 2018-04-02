@@ -41,8 +41,6 @@
 
 — Done!!! 🙌
 
-✅ **ALTERNATIVE** is to install via Konsole v2 built in CLI by running `hpm install shades-of-purple-konsole`.
-
 <br>
 
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
