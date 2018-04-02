@@ -1,9 +1,8 @@
 {
 	"name": "shades-of-purple-konsole",
 	"displayName": "Shades of Purple for Konsole",
-	"description":
-		"Professional Konsole Terminal theme with hand-picked & bold shades of purple 💜 to go along with your command line usage. A custom Hyper™ Terminal theme with style.",
-	"version": "1.0.0",
+	"description": "Professional Konsole Terminal theme with hand-picked & bold shades of purple 💜 to go along with your command line usage. A custom Hyper™ Terminal theme with style.",
+	"version": "1.1.0",
 	"publisher": "ahmadawais",
 	"repository": {
 		"type": "git",
